@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711824347618
+current_stage: None
+description: ''
+last_updated_timestamp: 1711824347618
+name: Sentiment_analysis_review_prediction_experiment
+run_id: 5e3560fd22c142ca95acbc299eefd137
+run_link: ''
+source: mlflow-artifacts:/859695253251303284/5e3560fd22c142ca95acbc299eefd137/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/859695253251303284/5e3560fd22c142ca95acbc299eefd137/artifacts/best_estimator
+user_id: null
+version: 3
