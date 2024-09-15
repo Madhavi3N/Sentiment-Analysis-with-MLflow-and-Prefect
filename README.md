@@ -1,4 +1,4 @@
-# Sentiment-Analysis-with-MLflow-and-Prefect
+# Sentiment Analysis of Flipkart reviews with MLflow and Prefect
 ## MLFlow
 ![Picture1](https://github.com/user-attachments/assets/5a204e94-8d2e-4fe1-a405-278cfd4c30bb)
 ![Picture2](https://github.com/user-attachments/assets/30071cb0-1153-4690-9f3a-86e7075bdbc5)
